@@ -8,6 +8,5 @@ function addition() {
       
 addition(); 
 echo $z; 
+/*Global variables are used to access global variables from anywhere in the PHP script*/
 ?>
-//PHP super global variables are used to access global variables from
-anywhere in the PHP script//
