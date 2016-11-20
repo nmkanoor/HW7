@@ -13,6 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		echo $name;
 	}
 }
+/*The request superglobal is used to collect data after submitting an HTML form. */
 ?>
 </body>
 </html>
